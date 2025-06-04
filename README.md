@@ -14,15 +14,7 @@ Key features include:
 - **Dynamic batching & adaptive inference**
 - **Memory profiling & optimization**
 - **Automated quality assessment**
-- **Professional Colab UI widgets**  <!-- Remove this line if you don't want UI widgets -->
 - **Comprehensive benchmarking & analytics**
-
----
-
-## 📸 Demo
-
-<!-- Replace with your demo GIF or image -->
-![Demo Animation](assets/readme/demo.gif)
 
 ---
 
@@ -35,7 +27,6 @@ Key features include:
 | 🧠 **Memory Profiling**        | Real-time GPU memory tracking, profiling, and automatic optimization.                           | ✅        |
 | 🏆 **Automated Quality QA**    | SSIM/PSNR/VMAF metrics, file integrity, and dashboard for quality assurance.                    | ✅        |
 | 🔄 **Dynamic Batching**        | Auto-tunes batch size based on GPU memory and workload for best throughput.                     | ✅        |
-| 🖥️ **Colab UI Widgets**        | Professional, interactive interface for easy use and monitoring.                               | ✅        | <!-- Remove this row if you don't want UI widgets -->
 | 📊 **Benchmark Table**         | Visual dashboards, performance charts, and detailed logs.                                      | ✅        |
 
 ---
@@ -50,9 +41,6 @@ Key features include:
 | Quality (SSIM)        | Baseline     | 1.0000        | **Perfect**      |
 | Batch Throughput      | 1x           | 3.3x          | **3.3x**         |
 | Success Rate          | Baseline     | 100%          | **Perfect**      |
-
-<!-- Replace with your dashboard image -->
-![Performance Dashboard](assets/readme/performance_dashboard.png)
 
 ---
 
@@ -73,18 +61,13 @@ Key features include:
 ### 4. **Colab UI Widgets** <!-- Remove this section if you don't want UI widgets -->
 - Interactive controls, file upload, real-time progress, and performance stats.
 
-<!-- Replace with your UI screenshot -->
-![UI Screenshot](assets/readme/ui_screenshot.png) <!-- Remove if not using UI -->
-
 ---
 
 ## 🧑‍💻 Usage
 
 ### **Colab Notebook**
 
-1. **Open the [Colab Notebook](YOUR_COLAB_LINK_HERE)**
+1. **Open the [Colab Notebook](https://colab.research.google.com/drive/19--16FammGA2R4p_iBskHOda7XQLKKuO?usp=drive_link)**
 2. **Upload your source image and driving video**
 3. **Select pipeline type, batch size, and quality mode**
 4. **Click "Run LivePortrait" and view results**
-
-### **Command-Line (for local use)**
