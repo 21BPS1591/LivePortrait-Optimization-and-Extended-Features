@@ -14,7 +14,6 @@ Key features include:
 - **Dynamic batching & adaptive inference**
 - **Memory profiling & optimization**
 - **Automated quality assessment**
-- **Comprehensive benchmarking & analytics**
 
 ---
 
@@ -27,7 +26,6 @@ Key features include:
 | 🧠 **Memory Profiling**        | Real-time GPU memory tracking, profiling, and automatic optimization.                           | ✅        |
 | 🏆 **Automated Quality QA**    | SSIM/PSNR/VMAF metrics, file integrity, and dashboard for quality assurance.                    | ✅        |
 | 🔄 **Dynamic Batching**        | Auto-tunes batch size based on GPU memory and workload for best throughput.                     | ✅        |
-| 📊 **Benchmark Table**         | Visual dashboards, performance charts, and detailed logs.                                      | ✅        |
 
 ---
 
@@ -57,9 +55,6 @@ Key features include:
 ### 3. **Quality Assurance**
 - Automated SSIM, PSNR, and basic metrics.
 - **Zero quality loss** with all optimizations.
-
-### 4. **Colab UI Widgets** <!-- Remove this section if you don't want UI widgets -->
-- Interactive controls, file upload, real-time progress, and performance stats.
 
 ---
 
